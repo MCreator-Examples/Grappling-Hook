@@ -32,4 +32,4 @@ Procedures have been built by NorthWestTrees Gaming.
 * [YouTube: Gun Block](https://youtu.be/A7--HtsNao8) - Published on 2021-08-20
 
 ## GALLERY
-![Grappling Hook](https://i.imgur.com/v5KFQBA.png)
+![Grappling Hook](https://i.imgur.com/xltM7KA.png)
