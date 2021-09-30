@@ -1,3 +1,4 @@
+![Grappling Hook](https://i.imgur.com/xltM7KA.png)
 # GRAPPLING HOOK
 Project files for the [MCreator](https://mcreator.net/) example and tutorial.
 
@@ -30,6 +31,3 @@ Procedures have been built by NorthWestTrees Gaming.
 
 ## TUTORIALS
 * [YouTube: Gun Block](https://youtu.be/A7--HtsNao8) - Published on 2021-08-20
-
-## GALLERY
-![Grappling Hook](https://i.imgur.com/xltM7KA.png)
